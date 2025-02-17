@@ -1,0 +1,1 @@
+WAP to find the vowels and consonants in a string.
